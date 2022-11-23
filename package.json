@@ -1,0 +1,30 @@
+{
+  "name": "tsparticles_test",
+  "version": "1.0.0",
+  "description": "tsparticles_test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YQisme/tsparticles_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YQisme/tsparticles_test/issues"
+  },
+  "homepage": "https://github.com/YQisme/tsparticles_test#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
+  },
+  "dependencies": {
+    "tsparticles-engine": "^2.5.2",
+    "tsparticles-slim": "^2.5.3",
+    "vue3-particles": "^2.5.3"
+  }
+}
